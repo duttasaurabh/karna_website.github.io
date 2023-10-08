@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karna Institute of Engineering</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#books">Books</a></li>
+            <li><a href="#authors">Authors</a></li>
+            <li><a href="#test_series">Test Series</a></li>
+            <li><a href="#syllabus">Syllabus</a></li>
+        </ul>
+    </nav>
+
+    <!-- Books Section -->
+    <section id="books">
+        <h2>In-house Published Books</h2>
+        <ul>
+            <li><a href="https://www.amazon.in/Question-Bank-Electronics-Satish-Karna/dp/B0CCMS7H28/ref=sr_1_6?crid=2LQ7ME06S5AU7&keywords=satish+k+karna+electronics&qid=1696748704&sprefix=satish+k+karna+electronic%2Caps%2C300&sr=8-6">Question Bank in Electronics</a></li>
+            <li><a href="https://www.amazon.in/Circuit-Network-Theory-GATE-PSUs-Examination-ebook/dp/B01IBGZ52W/ref=sr_1_6?crid=1UWJ9OOXTPTTT&keywords=satish+k+karna+books&qid=1696748875&sprefix=satish+k+karna+book%2Caps%2C263&sr=8-6">Circuit and Network Theory—GATE, PSUs and ES Examination</a></li>
+            <li><a href="https://www.amazon.in/Digital-Electronics-GATE-PSUs-ES-Examination-ebook/dp/B01HI93OI0/ref=sr_1_3?crid=1UWJ9OOXTPTTT&keywords=satish+k+karna+books&qid=1696748875&sprefix=satish+k+karna+book%2Caps%2C263&sr=8-3">Digital Electronics—GATE, PSUs and ES Examination</a></li>
+        </ul>
+    </section>
+
+    <!-- Authors Section -->
+    <section id="authors">
+        <h2>Authors</h2>
+        <div>
+            <h3>Satish K Karna</h3>
+            <p>Satish K Karna  has done his graduation in Electronics and Communication Engineering and MTech in Computer Integrated Manufacturing from Punjab Engineering College, Chandigarh. He has more than 25 years of teaching and industrial experience and specializes in coaching students for competitive examinations like GATE, PSUs, and ESE. He has authored more than 25 books in the field of Electronics and communication Engineering, Electrical Engineering, Instrumentation Engineering   and Computer  Engineering.</p>
+        </div>
+        <div>
+            <h3>Dr. Ravi Verma</h3>
+            <p>Dr. Ravi Verma is working as an Assistant Professor in Department of Instrumentation and Control Engineering at National Institute of Technology, Jalandhar. Prior to this he has worked as a Senior Assistant Professor at VIT Vellore. He has received PhD and Masters degree from Indian institute of Science, Bangalore. He also worked as Postdoctoral fellow at Indian Institute of Science, Bangalore. He has qualified GATE examination multiple times.  He  has more than 10 years of teaching experience and co-author few GATE books in the area of Instrumentation.</p>
+        </div>
+        <div>
+            <h3>Dr. Saurabh Dutta</h3>
+            <p>Dr. Saurabh Dutta has received his PhD degree from the Indian Institute of Technology (Indian School of Mines), Dhanbad, in the Department of Electrical Engineering. He is currently working as a Post Doctoral Research Fellow at University of Malaya, Kuala Lumpur, Malaysia. Prior to this, he served as an Assistant Professor in the Department of Electrical Engineering at the National Institute of Technology, Patna. He has published a number of papers in IEEE, IET Journals. He is also a reviewer of several journal of reputed publications IEEE, IET, Springer (Nature). He is also a member of IEEE, a member of Dielectrics and Electrical Insulation Society and an Associate Member of the Institution of Engineers (India). Dr. Saurabh Dutta has qualified the GATE examination multiple times  and also served as a co-reviser in few GATE, PSU and ESE books.</p>
+        </div>
+    </section>
+
+    <!-- Test Series Section -->
+    <section id="test_series">
+        <h2>Test Series</h2>
+        <p>Information about the test series for GATE, IES, NET JRF.</p>
+    </section>
+
+    <!-- Syllabus Section -->
+    <section id="syllabus">
+        <h2>Syllabus</h2>
+        <p>Syllabus for GATE, IES, NET JRF exams.</p>
+    </section>
+</body>
+</html>
